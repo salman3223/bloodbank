@@ -1,0 +1,43 @@
+.container-fluid{
+  margin-left: 10%;
+  margin-right: 10%;
+  background-image: url(images/blood.jpg);
+  height: 40vh;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h2:after{
+  width: 500px;
+  height: 2px;
+  background-color: orange;
+  display: block;
+  content: "";
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.features h2{
+  margin-top: 60px;
+  text-align: center;
+  font-size: 40px;
+
+}
+.navbar li{
+  padding-left: 80px;
+
+}
+.arrange{
+  text-align: justify;
+}
+.row img{
+  height: 80px;
+  width: 90px;
+  margin-left: 40%;
+  margin-bottom: 20%;
+}
+table{
+  margin-left: 25%;
+}
+.page-footer{
+  background-color: black;
+  color: white;
+}
